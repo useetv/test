@@ -1,0 +1,38 @@
+#EXTINF:0,TV ONE	
+http://rr2.dens.tv/s/s02/index2.m3u8
+#EXTINF:0,SCTV
+http://rr2.dens.tv/s/s03/index2.m3u8
+#EXTINF:0,INDOSIAR
+http://rr2.dens.tv/s/s04/index2.m3u8
+#EXTINF:0,TRANS TV
+http://rr2.dens.tv/s/s05/index2.m3u8
+#EXTINF:0,TRANS 7
+http://rr2.dens.tv/s/s06/index2.m3u8
+#EXTINF:0,ANTV
+http://rr2.dens.tv/s/s07/index2.m3u8
+#EXTINF:0,NET.TV
+http://rr2.dens.tv/s/s08/index2.m3u8
+#EXTINF:0,KOMPAS TV
+http://rr2.dens.tv/s/s09/index2.m3u8
+#EXTINF:0,METRO TV
+http://rr.dens.tv/h/h05/index2.m3u8
+#EXTINF:0,RTV
+http://rr2.dens.tv/s/s12/index2.m3u8
+#EXTINF:0,RCTI
+https://stream.sindonews.net/live/rctioke.m3u8
+#EXTINF:0,GLOBAL TV
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511505498448705/index.m3u8
+#EXTINF:0,BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/playlist.m3u8
+#EXTINF:0,MNCTV
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511111714365733/index.m3u8
+#EXTINF:0,JAKTV
+http://103.75.100.8/wh7f454c46tw2929953414_1336406691/PLTV/88888888/224/3221225586/index.m3u8
+#EXTINF:0,DAAI TV
+http://rr2.dens.tv/s/s13/index2.m3u8
+#EXTINF:0,TVRI
+http://rr2.dens.tv/s/s11/index2.m3u8
+#EXTINF:0,JTV
+http://122.248.32.234:1935/ch2/myStream/live.m3u8
+#EXTINF:0,ZEE STUDIO HD
+http://z5ams.akamaized.net/andflixhd/tracks-v2a1/index.m3u8
