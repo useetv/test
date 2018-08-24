@@ -32,7 +32,5 @@ http://103.75.100.8/wh7f454c46tw2929953414_1336406691/PLTV/88888888/224/32212255
 http://rr2.dens.tv/s/s13/index2.m3u8
 #EXTINF:0,TVRI
 http://rr2.dens.tv/s/s11/index2.m3u8
-#EXTINF:0,JTV
-http://122.248.32.234:1935/ch2/myStream/live.m3u8
 #EXTINF:0,ZEE STUDIO HD
 http://z5ams.akamaized.net/andflixhd/tracks-v2a1/index.m3u8
